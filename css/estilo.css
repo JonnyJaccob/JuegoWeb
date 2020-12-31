@@ -1,0 +1,31 @@
+    * {
+        padding: 0px;
+        margin: 0px;
+        font-family: sans-serif;
+    }
+    
+    .contenedor {
+        padding: 0px;
+        margin: auto;
+        width: 500px;
+        height: 500px;
+        background-color: aquamarine;
+        border: 8px dashed blueviolet;
+    }
+    
+    #player {
+        background-color: red;
+        border: 4px dashed rgba(255, 0, 0, 0.466);
+        width: 50px;
+        height: 50px;
+        border-radius: 29px;
+    }
+    /*Comentrio*/
+    
+    .pointer {
+        background-color: #444;
+        height: 50px;
+        /*margin-top: 30px;*/
+        margin-top: 30px;
+        border-bottom: 0px;
+    }
